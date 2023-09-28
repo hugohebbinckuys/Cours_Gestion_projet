@@ -1,0 +1,1 @@
+- pour le 22/09 savoir ce qu'est et maîtriser <b> git clone, git add, git commit, git push; </b> 
