@@ -77,3 +77,4 @@
 	  -> ouvrir ligne de commande 
 	  -> aller dans le repertoire ou on veut copier le clone 
 	  -> faire un git clone <i> url du depot </i> 
+
