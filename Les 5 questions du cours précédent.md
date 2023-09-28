@@ -61,7 +61,7 @@
   	--> C'est pas stocké en ligne mais sur la machine donc a part si on se fait voler la machine c pas possible de se faire piquer ses notes etc.
 
 - a quoi sert la commande git remote add ... ?
-  	--> sert a se "connecter" a un depot distant. Donc on doit mettre git remote add <i> origin </> <i> lien vers depot distant </i>
+  	--> sert a se "connecter" a un depot distant. Donc on doit mettre git remote add <i> origin lien vers depot distant </i>
 
 - a quoi sert de faire un git pull ?
   	-->  quand on a un fichier qui a ete update sur github par qq d'autre par exemple et bah si on veut push un travail on peut pas avant d'avoir pull c a d récup le travail et l'update de l'autre.
