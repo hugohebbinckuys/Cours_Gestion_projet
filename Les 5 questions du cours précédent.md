@@ -53,3 +53,27 @@
 -   Qu'est ce qu'un patch
         --> apporter modifications
 
+
+# Cours du 21 Septembre 
+## Questions pour le 29 Septembre 
+
+- Pourquoi il est presque impossible de se faire voler nos notes sur Obsidian et qui est l'un des interets d'Obsidian ?
+  	--> C'est pas stocké en ligne mais sur la machine donc a part si on se fait voler la machine c pas possible de se faire piquer ses notes etc.
+
+- a quoi sert la commande git remote add ... ?
+  	--> sert a se "connecter" a un depot distant. Donc on doit mettre git remote add <i> origin </> <i> lien vers depot distant </i>
+
+- a quoi sert de faire un git pull ?
+  	-->  quand on a un fichier qui a ete update sur github par qq d'autre par exemple et bah si on veut push un travail on peut pas avant d'avoir pull c a d récup le travail et l'update de l'autre.
+
+- a quoi sert la clé ssh ?
+  	--> permettre de faire des push et pull vers un depot distant. En effet pour nous connecter au depot distant on ne peut plus se servir du mot de passe du compte github, on a besoin d'une clé http ou d'une clé ssh
+
+- quelles sont les étapes du git clone ?
+  	-->
+	  -> aller dans le repository qu'on veut cloner 
+	  -> aller dans "<>code"
+	  -> copier l'url du depot
+	  -> ouvrir ligne de commande 
+	  -> aller dans le repertoire ou on veut copier le clone 
+	  -> faire un git clone <i> url du depot </i> 
